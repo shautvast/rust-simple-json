@@ -1,0 +1,1 @@
+for now a starter with a derive macro
